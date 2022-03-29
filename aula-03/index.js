@@ -1,0 +1,1 @@
+console.log('Juan', 23, 'Software Engineer', 20.0);
